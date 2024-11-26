@@ -4,7 +4,8 @@ Este proyecto es una app web desarrollada con Django que registrar pacientes, du
 
 La aplicación incluye funcionalidades para agregar a una base de datos a pacientes, dueños y veterinarios, y buscar en la base a los pacientes y ver que especie son.
 
-#Funcionalidades
+# Funcionalidades
+
 1.Registar dueño
 Podremos incluir infomracion como el nombre y un telefono de contacto
 
