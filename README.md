@@ -7,8 +7,10 @@ La aplicación incluye funcionalidades para agregar a una base de datos a pacien
 #Funcionalidades
 1.Registar dueño
 Podremos incluir infomracion como el nombre y un telefono de contacto
+
 2.Registrar paciente
 Completando la informacion como nombre y especie
+
 3.Registrar veterinario
 Nombre y matricula del mismo
 
