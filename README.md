@@ -18,3 +18,13 @@ Nombre y matricula del mismo
 4. Buscar paciente
    una vez registrado los pacientes, podremos buscar a los mismos en la base de datos
 5. Navegacion de la aplicacion: http://127.0.0.1:8000
+
+Link de la pagina principal: http://127.0.0.1:8000
+
+Link para registrar dueño: http://127.0.0.1:8000/registrar_dueño/
+
+Link para registrar paciente: http://127.0.0.1:8000/registrar_paciente/
+
+Link para registrar veterinario: http://127.0.0.1:8000/registrar_veterinario/
+
+Link para Buscar Paciente: http://127.0.0.1:8000/buscar/
