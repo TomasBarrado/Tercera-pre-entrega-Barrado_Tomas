@@ -1,0 +1,17 @@
+{% extends 'gestion/base.html' %}
+
+{% block content %}
+<h2>Buscar Paciente</h2>
+<form method="get">
+    <input type="text" name="q" placeholder="Nombre del paciente">
+    <button type="submit">Buscar</button>
+</form>
+
+{% if resultados %}
+    <ul>
+        {% for paciente in resultados %}
+            <li>{{ paciente.nombre }} - {{ paciente.especie }}</li>
+        {% endfor %}
+    </ul>
+{% endif %}
+{% endblock %}
